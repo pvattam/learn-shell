@@ -1,2 +1,1 @@
-ls
-pwd
+echo -e "\e[32m Printing a color \e[0m"
